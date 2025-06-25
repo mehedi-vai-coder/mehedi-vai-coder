@@ -2,19 +2,38 @@
 <h3 align="center">A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Web+Developer;MERN+Stack+Learner;Building+with+React,+Tailwind,+Firebase;Always+Learning+Something+New...&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Web+Developer;React+%2F+Tailwind+Specialist;Firebase+Auth+%2F+JWT+Learner;Love+Building+Clean+UI&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehedi-vai-coder&label=Profile+Visitors&color=blueviolet&style=flat" alt="visitor badge"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 I’m a **Frontend Web Developer** passionate about building clean UI & dynamic web apps
-- 🔭 Currently working on: **MERN projects, JWT Auth, and Firebase Integration**
-- 🌱 Learning: **Next.js, TypeScript & Backend Architecture**
-- 📫 Reach me anytime: **md.mehedihasan27bd@gmail.com**
-- 🌐 Facebook: [facebook.com/md.mehedihasan0008](https://www.facebook.com/md.mehedihasan0008/)
-- 🗃 All my projects: [GitHub Repositories](https://github.com/mehedi-vai-coder?tab=repositories)
+- 🔭 Currently building: **Full-Stack MERN Projects**
+- 🌱 Currently learning: **Next.js, TypeScript & Backend Architecture**
+- 👨‍💻 All my work: [GitHub Repositories](https://github.com/mehedi-vai-coder?tab=repositories)
+- 📫 Reach me: **md.mehedihasan27bd@gmail.com**
+- 🌐 Facebook: [facebook.com/md.mehedihasan0008](https://facebook.com/md.mehedihasan0008/)
+
+---
+
+## ✨ Currently Learning
+
+- 📘 Advanced React Patterns  
+- 🧠 Backend Security (JWT, Role-Based Access)  
+- 🧩 MongoDB Aggregation  
+- 💡 Clean Code & Git Best Practices
+
+---
+
+## 🤓 Fun Fact
+
+> I debug faster when I blast lo-fi beats and drink cha ☕🎧  
+> Also, I name my variables like they’re alive 🐍😂
 
 ---
 
@@ -54,17 +73,13 @@
 
 ## 📌 Featured Projects
 
-- 📚 [Virtual Bookshelf App](https://bookshelf-3935e.web.app/)  
+- 📚 [Virtual Bookshelf](https://bookshelf-3935e.web.app/)  
   `React + Firebase + JWT + MongoDB`  
-  → Book management system with auth & full CRUD  
-  → [Client Repo](https://github.com/mehedi-vai-coder/virtual-bookshelf-client)  
-  → [Server Repo](https://github.com/mehedi-vai-coder/virtual-bookshelf-server)
+  → [Client](https://github.com/mehedi-vai-coder/virtual-bookshelf-client) | [Server](https://github.com/mehedi-vai-coder/virtual-bookshelf-server)
 
-- 🍽️ [Recipe World App](https://recipe-auth-328a6.web.app/)  
-  `React + Firebase Auth + Node.js + MongoDB`  
-  → Secure recipe app with login-only access to details  
-  → [Client Repo](https://github.com/mehedi-vai-coder/Recipe-Client-Side)  
-  → [Server Repo](https://github.com/mehedi-vai-coder/Recipe-Server-Side)
+- 🍽️ [Recipe World](https://recipe-auth-328a6.web.app/)  
+  `React + Firebase Auth + MongoDB`  
+  → [Client](https://github.com/mehedi-vai-coder/Recipe-Client-Side) | [Server](https://github.com/mehedi-vai-coder/Recipe-Server-Side)
 
 ---
 
