@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
-<h3 align="center">A passionate full-stack web developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Web+Developer;MERN+Stack+Learner;Always+Learning+Something+New...&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Web+Developer;MERN+Stack+Learner;Building+with+React,+Tailwind,+Firebase;Always+Learning+Something+New...&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **MERN Projects & Firebase Authentication**
-- 🌱 I’m learning: **Next.js, TypeScript, Backend Architecture**
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/mehedi-vai-coder?tab=repositories)
-- 📫 Reach me at: **md.mehedihasan27bd@gmail.com**
+- 👨‍💻 I’m a **Frontend Web Developer** passionate about building clean UI & dynamic web apps
+- 🔭 Currently working on: **MERN projects, JWT Auth, and Firebase Integration**
+- 🌱 Learning: **Next.js, TypeScript & Backend Architecture**
+- 📫 Reach me anytime: **md.mehedihasan27bd@gmail.com**
+- 🌐 Facebook: [facebook.com/md.mehedihasan0008](https://www.facebook.com/md.mehedihasan0008/)
+- 🗃 All my projects: [GitHub Repositories](https://github.com/mehedi-vai-coder?tab=repositories)
 
 ---
 
@@ -52,8 +54,17 @@
 
 ## 📌 Featured Projects
 
-- 🔖 [Virtual Bookshelf App](https://github.com/mehedi-vai-coder/assignment-11) – MERN Stack + Firebase
-- 🛒 [TST Mart UI](https://github.com/mehedi-vai-coder/assignment-10) – Responsive UI for Online Store
+- 📚 [Virtual Bookshelf App](https://bookshelf-3935e.web.app/)  
+  `React + Firebase + JWT + MongoDB`  
+  → Book management system with auth & full CRUD  
+  → [Client Repo](https://github.com/mehedi-vai-coder/virtual-bookshelf-client)  
+  → [Server Repo](https://github.com/mehedi-vai-coder/virtual-bookshelf-server)
+
+- 🍽️ [Recipe World App](https://recipe-auth-328a6.web.app/)  
+  `React + Firebase Auth + Node.js + MongoDB`  
+  → Secure recipe app with login-only access to details  
+  → [Client Repo](https://github.com/mehedi-vai-coder/Recipe-Client-Side)  
+  → [Server Repo](https://github.com/mehedi-vai-coder/Recipe-Server-Side)
 
 ---
 
@@ -61,11 +72,11 @@
 
 <p align="left">
   <a href="mailto:md.mehedihasan27bd@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="[https://www.facebook.com/md.mehedihasan0008/]"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.facebook.com/md.mehedihasan0008/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  🧠 "I write code not just to build apps — but to build impact."  
+  🧠 "I write code not just to build apps — but to build impact."
 </p>
